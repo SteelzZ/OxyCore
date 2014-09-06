@@ -1,0 +1,15 @@
+{
+    "name": "steelzz/oxy-core",
+    "description": "Core library for Oxy family packages",
+    "authors": [
+        {
+            "name": "Tomas Bartkus",
+            "email": "to.bartkus@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Oxy\\Core" : "src"
+        }
+    }
+}
